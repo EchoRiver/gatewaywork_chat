@@ -1,0 +1,22 @@
+2020-04-24 05:28:40 pid:1 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:28:40 pid:1 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:28:45 pid:1 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:28:55 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:29:15 pid:1 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:30:15 pid:1 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:30:25 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:35:16 pid:1 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:35:26 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:45:16 pid:1 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:45:26 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:51:54 pid:1 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 05:52:04 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 06:42:08 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2020-04-24 06:42:08 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2020-04-24 07:10:01 pid:1 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 07:10:11 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-04-24 08:54:19 pid:1 Worker process terminated
+2020-04-24 08:54:33 pid:1 Worker process terminated
+2020-04-24 08:54:35 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2020-04-24 08:54:35 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2020-04-24 09:01:07 pid:1 Worker process terminated
